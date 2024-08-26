@@ -64,7 +64,7 @@ body{
     background-color: var(--fundo-senha);
     border: none;
     color: var(--branco);  
-    font-family: var(--roboto-mono);
+    font-family: var(--robot-mono);
     font-size: 40px;Gere instantaneamente uma senha aleatória e segura
 
 }
